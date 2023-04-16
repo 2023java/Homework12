@@ -15,6 +15,12 @@ public class Main {
         warAndPeace.setPublishingYear(2002);
         System.out.println(warAndPeace.publishingYear);
 
+        System.out.println(warAndPeace);
+        System.out.println(medniyVsadnik);
+
+
+
+
 
 
 
